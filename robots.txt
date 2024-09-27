@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://samara-melody.github.io/al-folio/sitemap.xml
+Sitemap: https://samara-melody.github.io/sitemap.xml
